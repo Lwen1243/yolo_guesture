@@ -1,0 +1,11 @@
+annotations/
+train/
+ok/
+runs/
+three_gun/
+yolo/
+like/
+datasets/
+wget-log
+.gitigore
+*.pt
